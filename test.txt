@@ -10,4 +10,6 @@ and another one
 Updating with Bash
 Updating with Tortoise
 
+Created test repository on laptop
+
 
